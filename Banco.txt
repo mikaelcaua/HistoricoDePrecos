@@ -1,0 +1,9 @@
+Samsung S20;Magazine;2000;10/11/2023
+Samsung S20;Casas Bahia;1500;10/11/2023
+Samsung S20;Mateus Supermercados;1700;26/11/2023
+Samsung S20;Armazém Paraíba;1300;26/11/2023
+Playstation 5;Magazine;3500;15/12/2023
+Playstation 5;Casas Bahia;3000;17/12/2023
+Playstation 5;Mateus Supermercados;4000;15/12/2023
+Playstation 5;Armazém Paraíba;2900;15/12/2023
+Playstation 5;Armazém Paraíba;1000;17/12/2023
